@@ -1,0 +1,21 @@
+Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+Game 1,Switch,2020,Sports,EA,3.64,3.56,0.51,0.11,7.82
+Game 2,PC,2001,Action,Nintendo,1.63,3.95,0.08,0.46,6.12
+Game 3,PS4,2011,Adventure,Nintendo,2.85,3.03,1.42,0.22,7.52
+Game 4,Switch,2005,Shooter,EA,2.6,4.63,0.22,0.42,7.87
+Game 5,Switch,2001,Action,EA,4.81,3.26,0.88,0.88,9.830000000000002
+Game 6,PC,2020,Shooter,EA,4.22,4.57,0.4,0.32,9.51
+Game 7,PS4,2000,Adventure,EA,3.74,4.25,1.79,0.12,9.9
+Game 8,PS4,2011,Adventure,EA,2.7,2.25,0.95,0.36,6.260000000000001
+Game 9,Switch,2011,Action,Nintendo,2.93,0.48,1.13,0.91,5.45
+Game 10,Xbox One,2016,Adventure,EA,4.83,1.85,1.39,0.27,8.34
+Game 11,Switch,2009,Sports,Ubisoft,3.04,3.34,0.28,0.65,7.3100000000000005
+Game 12,Switch,2015,Adventure,Activision,1.38,3.33,1.21,0.0,5.92
+Game 13,Switch,2014,Shooter,EA,1.48,2.96,1.08,0.35,5.869999999999999
+Game 14,Switch,2014,Shooter,EA,0.83,1.37,0.41,0.3,2.91
+Game 15,PC,2018,Shooter,Nintendo,0.08,2.81,1.89,0.16,4.94
+Game 16,PS4,2011,Shooter,EA,2.12,1.91,1.2,0.53,5.760000000000001
+Game 17,PC,2019,Sports,EA,1.97,4.86,1.39,0.48,8.700000000000001
+Game 18,PC,2002,RPG,EA,1.47,4.24,1.76,0.69,8.16
+Game 19,PC,2004,Action,Nintendo,0.07,3.61,1.25,0.27,5.199999999999999
+Game 20,Switch,2018,Shooter,EA,0.99,1.18,0.59,0.24,3.0

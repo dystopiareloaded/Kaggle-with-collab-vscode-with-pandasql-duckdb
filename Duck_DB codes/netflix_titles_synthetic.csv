@@ -1,0 +1,101 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s00001,Movie,Title 1,Director C,"Actor M, Actor N",United States,"March 26, 2020",2021,G,3 Seasons,Horror Movies,Sample description of the show/movie.
+s00002,TV Show,Title 2,Director B,,United States,"October 21, 2019",2022,TV-MA,1 Season,Dramas,Sample description of the show/movie.
+s00003,Movie,Title 3,Director B,"Actor M, Actor N",United Kingdom,"July 01, 2019",2002,TV-14,45 min,Dramas,Sample description of the show/movie.
+s00004,Movie,Title 4,,"Actor X, Actor Y",India,"April 30, 2021",2011,TV-MA,3 Seasons,Comedies,Sample description of the show/movie.
+s00005,Movie,Title 5,Director B,,Japan,"January 17, 2018",2015,R,3 Seasons,Horror Movies,Sample description of the show/movie.
+s00006,TV Show,Title 6,Director B,"Actor X, Actor Y",Canada,"May 28, 2021",2018,TV-MA,3 Seasons,Comedies,Sample description of the show/movie.
+s00007,Movie,Title 7,Director B,,India,"December 05, 2020",2004,TV-MA,3 Seasons,Comedies,Sample description of the show/movie.
+s00008,Movie,Title 8,,,Canada,"November 17, 2023",2021,TV-MA,3 Seasons,Comedies,Sample description of the show/movie.
+s00009,Movie,Title 9,Director B,"Actor A, Actor B",United Kingdom,"November 04, 2022",2013,G,2 Seasons,Documentaries,Sample description of the show/movie.
+s00010,TV Show,Title 10,Director C,"Actor X, Actor Y",United Kingdom,"November 26, 2020",2004,TV-MA,45 min,Documentaries,Sample description of the show/movie.
+s00011,Movie,Title 11,,"Actor M, Actor N",United States,"October 29, 2018",2014,TV-14,3 Seasons,Comedies,Sample description of the show/movie.
+s00012,Movie,Title 12,Director C,"Actor M, Actor N",Japan,"June 30, 2018",2016,R,45 min,Horror Movies,Sample description of the show/movie.
+s00013,Movie,Title 13,,"Actor X, Actor Y",Canada,"August 30, 2019",2013,R,2 Seasons,Dramas,Sample description of the show/movie.
+s00014,Movie,Title 14,Director B,"Actor M, Actor N",India,"December 01, 2019",2019,TV-MA,2 Seasons,Horror Movies,Sample description of the show/movie.
+s00015,TV Show,Title 15,Director C,"Actor M, Actor N",United Kingdom,"September 19, 2020",2004,G,45 min,Action & Adventure,Sample description of the show/movie.
+s00016,Movie,Title 16,,"Actor X, Actor Y",United States,"February 13, 2021",2011,G,90 min,Documentaries,Sample description of the show/movie.
+s00017,TV Show,Title 17,Director A,,United States,"July 10, 2018",2015,TV-14,1 Season,Dramas,Sample description of the show/movie.
+s00018,TV Show,Title 18,Director B,"Actor X, Actor Y",Canada,"September 07, 2020",2015,TV-MA,90 min,Dramas,Sample description of the show/movie.
+s00019,TV Show,Title 19,,,United Kingdom,"June 30, 2023",2020,R,90 min,Action & Adventure,Sample description of the show/movie.
+s00020,Movie,Title 20,Director A,"Actor M, Actor N",Japan,"March 30, 2021",2006,G,90 min,Action & Adventure,Sample description of the show/movie.
+s00021,TV Show,Title 21,,"Actor M, Actor N",United Kingdom,"May 08, 2018",2003,TV-MA,3 Seasons,Comedies,Sample description of the show/movie.
+s00022,Movie,Title 22,Director A,"Actor M, Actor N",Canada,"August 28, 2023",2000,G,2 Seasons,Documentaries,Sample description of the show/movie.
+s00023,TV Show,Title 23,Director B,"Actor A, Actor B",Canada,"December 22, 2022",2004,G,90 min,Documentaries,Sample description of the show/movie.
+s00024,TV Show,Title 24,Director C,,United Kingdom,"October 25, 2022",2022,R,2 Seasons,Horror Movies,Sample description of the show/movie.
+s00025,TV Show,Title 25,Director A,"Actor A, Actor B",Canada,"July 24, 2019",2009,PG,45 min,Comedies,Sample description of the show/movie.
+s00026,TV Show,Title 26,,"Actor A, Actor B",United Kingdom,"September 08, 2021",2021,TV-14,1 Season,Comedies,Sample description of the show/movie.
+s00027,TV Show,Title 27,Director B,"Actor X, Actor Y",India,"March 11, 2023",2004,TV-14,45 min,Comedies,Sample description of the show/movie.
+s00028,TV Show,Title 28,Director A,"Actor A, Actor B",United Kingdom,"September 18, 2019",2003,R,45 min,Comedies,Sample description of the show/movie.
+s00029,TV Show,Title 29,,"Actor X, Actor Y",United Kingdom,"August 14, 2022",2001,G,3 Seasons,Documentaries,Sample description of the show/movie.
+s00030,TV Show,Title 30,,"Actor X, Actor Y",Canada,"June 04, 2018",2019,TV-MA,1 Season,Documentaries,Sample description of the show/movie.
+s00031,Movie,Title 31,,"Actor A, Actor B",Canada,"November 10, 2021",2009,G,45 min,Comedies,Sample description of the show/movie.
+s00032,Movie,Title 32,Director A,,United States,"February 24, 2020",2018,R,45 min,Horror Movies,Sample description of the show/movie.
+s00033,TV Show,Title 33,Director A,,United States,"September 03, 2018",2000,TV-14,1 Season,Dramas,Sample description of the show/movie.
+s00034,TV Show,Title 34,Director A,,India,"February 09, 2022",2023,G,1 Season,Dramas,Sample description of the show/movie.
+s00035,TV Show,Title 35,Director C,,United States,"September 02, 2022",2004,TV-14,45 min,Horror Movies,Sample description of the show/movie.
+s00036,Movie,Title 36,Director A,,United Kingdom,"June 22, 2019",2012,TV-MA,1 Season,Comedies,Sample description of the show/movie.
+s00037,TV Show,Title 37,Director A,"Actor A, Actor B",Canada,"March 06, 2023",2003,TV-14,45 min,Documentaries,Sample description of the show/movie.
+s00038,Movie,Title 38,Director A,"Actor A, Actor B",United States,"January 16, 2023",2015,TV-14,45 min,Dramas,Sample description of the show/movie.
+s00039,Movie,Title 39,Director C,"Actor M, Actor N",United States,"July 09, 2020",2023,PG,3 Seasons,Action & Adventure,Sample description of the show/movie.
+s00040,Movie,Title 40,Director A,,India,"June 09, 2019",2015,PG,90 min,Action & Adventure,Sample description of the show/movie.
+s00041,Movie,Title 41,,"Actor A, Actor B",India,"March 10, 2022",2022,PG,45 min,Horror Movies,Sample description of the show/movie.
+s00042,Movie,Title 42,Director A,"Actor M, Actor N",United Kingdom,"February 05, 2018",2001,TV-14,2 Seasons,Comedies,Sample description of the show/movie.
+s00043,TV Show,Title 43,,,Canada,"November 16, 2019",2016,R,90 min,Dramas,Sample description of the show/movie.
+s00044,TV Show,Title 44,,"Actor X, Actor Y",India,"January 20, 2018",2019,TV-14,90 min,Comedies,Sample description of the show/movie.
+s00045,TV Show,Title 45,,"Actor M, Actor N",United States,"February 04, 2019",2023,R,90 min,Dramas,Sample description of the show/movie.
+s00046,TV Show,Title 46,Director C,"Actor A, Actor B",Canada,"August 29, 2020",2011,R,3 Seasons,Horror Movies,Sample description of the show/movie.
+s00047,TV Show,Title 47,Director C,"Actor X, Actor Y",Canada,"March 22, 2023",2017,PG,45 min,Horror Movies,Sample description of the show/movie.
+s00048,Movie,Title 48,Director C,"Actor X, Actor Y",United States,"March 12, 2021",2002,G,3 Seasons,Action & Adventure,Sample description of the show/movie.
+s00049,TV Show,Title 49,Director A,"Actor X, Actor Y",India,"January 20, 2021",2000,TV-MA,45 min,Comedies,Sample description of the show/movie.
+s00050,TV Show,Title 50,,"Actor M, Actor N",United States,"April 13, 2020",2000,PG,3 Seasons,Action & Adventure,Sample description of the show/movie.
+s00051,Movie,Title 51,Director C,"Actor A, Actor B",Canada,"December 29, 2022",2018,PG,3 Seasons,Comedies,Sample description of the show/movie.
+s00052,TV Show,Title 52,Director C,"Actor X, Actor Y",Japan,"June 06, 2023",2010,G,2 Seasons,Action & Adventure,Sample description of the show/movie.
+s00053,Movie,Title 53,Director A,,Japan,"May 03, 2020",2004,TV-MA,3 Seasons,Documentaries,Sample description of the show/movie.
+s00054,TV Show,Title 54,Director C,"Actor X, Actor Y",United Kingdom,"February 20, 2018",2011,TV-14,1 Season,Documentaries,Sample description of the show/movie.
+s00055,Movie,Title 55,Director A,"Actor X, Actor Y",United States,"July 29, 2019",2002,TV-14,2 Seasons,Documentaries,Sample description of the show/movie.
+s00056,TV Show,Title 56,Director B,"Actor M, Actor N",United States,"February 22, 2021",2000,PG,3 Seasons,Documentaries,Sample description of the show/movie.
+s00057,TV Show,Title 57,Director C,"Actor M, Actor N",United Kingdom,"September 12, 2022",2000,TV-MA,90 min,Dramas,Sample description of the show/movie.
+s00058,Movie,Title 58,Director B,"Actor A, Actor B",United Kingdom,"November 13, 2019",2007,PG,1 Season,Documentaries,Sample description of the show/movie.
+s00059,Movie,Title 59,Director A,,United Kingdom,"April 17, 2020",2009,R,1 Season,Horror Movies,Sample description of the show/movie.
+s00060,Movie,Title 60,,"Actor M, Actor N",Canada,"December 13, 2020",2010,PG,1 Season,Horror Movies,Sample description of the show/movie.
+s00061,Movie,Title 61,Director C,"Actor X, Actor Y",United States,"May 15, 2022",2011,PG,2 Seasons,Dramas,Sample description of the show/movie.
+s00062,Movie,Title 62,Director A,"Actor A, Actor B",Canada,"January 05, 2018",2012,TV-14,3 Seasons,Documentaries,Sample description of the show/movie.
+s00063,Movie,Title 63,,"Actor X, Actor Y",United Kingdom,"January 31, 2021",2011,TV-14,3 Seasons,Documentaries,Sample description of the show/movie.
+s00064,Movie,Title 64,,"Actor X, Actor Y",United States,"May 04, 2021",2013,TV-14,90 min,Documentaries,Sample description of the show/movie.
+s00065,Movie,Title 65,Director B,"Actor M, Actor N",Canada,"February 13, 2020",2001,R,90 min,Action & Adventure,Sample description of the show/movie.
+s00066,TV Show,Title 66,Director A,"Actor A, Actor B",Canada,"May 26, 2020",2018,TV-14,1 Season,Comedies,Sample description of the show/movie.
+s00067,TV Show,Title 67,,,United Kingdom,"September 18, 2020",2017,TV-MA,90 min,Action & Adventure,Sample description of the show/movie.
+s00068,Movie,Title 68,Director C,,United States,"February 16, 2018",2002,G,2 Seasons,Comedies,Sample description of the show/movie.
+s00069,TV Show,Title 69,Director C,"Actor M, Actor N",United Kingdom,"September 26, 2018",2022,TV-MA,3 Seasons,Documentaries,Sample description of the show/movie.
+s00070,TV Show,Title 70,Director B,"Actor M, Actor N",United States,"January 05, 2019",2016,TV-MA,1 Season,Documentaries,Sample description of the show/movie.
+s00071,TV Show,Title 71,,"Actor A, Actor B",Japan,"September 28, 2019",2007,TV-14,90 min,Action & Adventure,Sample description of the show/movie.
+s00072,TV Show,Title 72,Director A,,India,"February 03, 2021",2009,G,2 Seasons,Action & Adventure,Sample description of the show/movie.
+s00073,Movie,Title 73,Director C,,India,"August 21, 2022",2001,G,2 Seasons,Comedies,Sample description of the show/movie.
+s00074,TV Show,Title 74,,,India,"August 10, 2022",2018,G,90 min,Horror Movies,Sample description of the show/movie.
+s00075,Movie,Title 75,,"Actor X, Actor Y",United Kingdom,"October 19, 2019",2008,R,3 Seasons,Comedies,Sample description of the show/movie.
+s00076,TV Show,Title 76,Director B,,Japan,"April 30, 2018",2006,TV-14,90 min,Action & Adventure,Sample description of the show/movie.
+s00077,TV Show,Title 77,Director C,"Actor X, Actor Y",United States,"April 10, 2020",2003,G,1 Season,Action & Adventure,Sample description of the show/movie.
+s00078,TV Show,Title 78,Director C,"Actor A, Actor B",Canada,"December 16, 2022",2020,R,90 min,Dramas,Sample description of the show/movie.
+s00079,Movie,Title 79,Director A,"Actor X, Actor Y",United States,"December 17, 2020",2017,PG,2 Seasons,Action & Adventure,Sample description of the show/movie.
+s00080,TV Show,Title 80,Director C,"Actor A, Actor B",Canada,"May 29, 2023",2012,PG,90 min,Dramas,Sample description of the show/movie.
+s00081,Movie,Title 81,Director A,,United States,"October 01, 2021",2010,R,3 Seasons,Horror Movies,Sample description of the show/movie.
+s00082,TV Show,Title 82,Director C,,Japan,"January 11, 2020",2023,R,45 min,Comedies,Sample description of the show/movie.
+s00083,Movie,Title 83,Director B,"Actor A, Actor B",Canada,"April 27, 2018",2003,TV-14,90 min,Comedies,Sample description of the show/movie.
+s00084,TV Show,Title 84,Director C,"Actor M, Actor N",United Kingdom,"January 28, 2023",2020,TV-14,3 Seasons,Dramas,Sample description of the show/movie.
+s00085,Movie,Title 85,Director A,"Actor A, Actor B",United States,"February 24, 2021",2003,PG,3 Seasons,Comedies,Sample description of the show/movie.
+s00086,Movie,Title 86,Director A,"Actor M, Actor N",United States,"April 16, 2023",2009,G,2 Seasons,Action & Adventure,Sample description of the show/movie.
+s00087,TV Show,Title 87,Director B,"Actor X, Actor Y",Canada,"October 09, 2020",2004,PG,3 Seasons,Documentaries,Sample description of the show/movie.
+s00088,Movie,Title 88,Director C,"Actor X, Actor Y",United Kingdom,"July 23, 2022",2008,G,3 Seasons,Dramas,Sample description of the show/movie.
+s00089,TV Show,Title 89,Director C,"Actor X, Actor Y",United Kingdom,"December 17, 2020",2023,G,3 Seasons,Comedies,Sample description of the show/movie.
+s00090,TV Show,Title 90,Director B,,Japan,"September 26, 2019",2002,TV-14,3 Seasons,Dramas,Sample description of the show/movie.
+s00091,TV Show,Title 91,Director C,"Actor X, Actor Y",United Kingdom,"May 28, 2019",2016,TV-MA,1 Season,Dramas,Sample description of the show/movie.
+s00092,TV Show,Title 92,Director C,"Actor M, Actor N",United Kingdom,"January 24, 2021",2002,TV-MA,1 Season,Documentaries,Sample description of the show/movie.
+s00093,TV Show,Title 93,Director A,"Actor X, Actor Y",United Kingdom,"February 15, 2021",2015,R,2 Seasons,Action & Adventure,Sample description of the show/movie.
+s00094,TV Show,Title 94,Director C,"Actor A, Actor B",India,"July 14, 2019",2003,TV-14,90 min,Dramas,Sample description of the show/movie.
+s00095,TV Show,Title 95,Director C,"Actor A, Actor B",Japan,"May 03, 2019",2017,G,3 Seasons,Comedies,Sample description of the show/movie.
+s00096,TV Show,Title 96,Director B,,United States,"June 15, 2020",2016,TV-MA,90 min,Horror Movies,Sample description of the show/movie.
+s00097,TV Show,Title 97,Director B,"Actor A, Actor B",Canada,"April 27, 2021",2006,G,90 min,Dramas,Sample description of the show/movie.
+s00098,TV Show,Title 98,,"Actor M, Actor N",United States,"December 05, 2019",2023,TV-MA,2 Seasons,Dramas,Sample description of the show/movie.
+s00099,TV Show,Title 99,Director A,"Actor X, Actor Y",Japan,"January 10, 2022",2022,TV-MA,3 Seasons,Documentaries,Sample description of the show/movie.
+s00100,Movie,Title 100,Director C,,Canada,"August 04, 2019",2004,TV-MA,3 Seasons,Action & Adventure,Sample description of the show/movie.

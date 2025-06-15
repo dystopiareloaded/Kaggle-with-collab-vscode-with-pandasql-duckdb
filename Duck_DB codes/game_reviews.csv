@@ -1,0 +1,21 @@
+Game,Platform,Critic_Score,Critic_Count,User_Score,User_Count,Rating
+Game 1,Switch,66,47,6.8,7500,T
+Game 2,Xbox One,98,33,2.6,3270,T
+Game 3,PC,51,78,7.2,9974,T
+Game 4,PC,51,79,4.5,2355,M
+Game 5,PC,77,95,9.4,1254,E
+Game 6,PS4,72,20,2.2,4599,E
+Game 7,PC,86,25,4.1,6395,E
+Game 8,PS4,81,82,2.0,6297,E
+Game 9,Xbox One,82,68,9.3,9988,T
+Game 10,PS4,50,79,8.9,1748,E
+Game 11,Xbox One,68,89,3.3,5639,M
+Game 12,PC,51,12,6.9,9737,M
+Game 13,PC,93,29,8.4,4299,E
+Game 14,Xbox One,75,68,6.0,8545,E
+Game 15,Switch,81,45,5.8,2657,M
+Game 16,Xbox One,55,28,3.2,5692,M
+Game 17,Switch,81,99,1.8,198,T
+Game 18,PS4,53,76,9.1,2300,M
+Game 19,PS4,60,28,9.1,3061,T
+Game 20,PS4,66,29,6.7,5073,T
